@@ -1,15 +1,13 @@
-# gold_forecasting
+# Gold_forecasting
  
-# Gold Forecasting Project Setup
+## Gold Forecasting Project Setup
 
-# Gold Forecasting Project Setup
-
-## 1. Python Installation
+### 1. Python Installation
 
 Ensure Python is installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/).
 
 
-## 2. VS Code Setup
+### 2. VS Code Setup
 
 - **Install Visual Studio Code**: Download and install it from the [official website](https://code.visualstudio.com/).
 
@@ -17,7 +15,7 @@ Ensure Python is installed on your system. You can download it from the [officia
   - **Python Extension**: Search for "Python" in the Extensions view and install the extension by Microsoft.
   - **Jupyter Extension**: Search for "Jupyter" in the Extensions view and install the extension by Microsoft.
 
-## 3. Python Requirements Installation
+### 3. Python Requirements Installation
 
 - **Create and Activate a Virtual Environment** (optional but recommended):
   - Navigate to your project directory:
@@ -45,7 +43,7 @@ Ensure Python is installed on your system. You can download it from the [officia
     pip install -r requirements.txt
     ```
 
-## 4. Running Jupyter Notebook
+### 4. Running Jupyter Notebook
 
 - **Open VS Code**.
 
